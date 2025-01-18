@@ -1,0 +1,9 @@
+/* Add your styles here */
+.open {
+    top: 0;
+  }
+  
+  .closed {
+    top: -100%;
+  }
+  
